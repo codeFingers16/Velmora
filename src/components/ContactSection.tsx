@@ -3,7 +3,7 @@ import { Send, MessageCircle } from "lucide-react";
 import AnimatedSection from "./AnimatedSection";
 import { useToast } from "@/hooks/use-toast";
 
-const WHATSAPP_NUMBER = "0791308076";
+const WHATSAPP_NUMBER = "27791308076";
 
 const ContactSection = () => {
   const { toast } = useToast();
