@@ -29,7 +29,7 @@ const Footer = () => (
         <div>
           <p className="font-heading font-bold text-sm text-hero-foreground mb-4">Contact</p>
           <div className="flex flex-col gap-2 text-sm text-hero-muted">
-            <span>hello@velmora.com</span>
+            <span>raynersaziz@gmail.com</span>
             <span>+27 79 130 8076</span>
           </div>
         </div>
